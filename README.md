@@ -1,4 +1,4 @@
-# 🧠 Customer Churn Dataset – Feature Engineering & Preprocessing
+# Feature Engineering & Preprocessing
 
 This project involves end-to-end feature engineering and preprocessing on a customer churn dataset containing **9134 rows** and **24 columns**. The goal is to prepare the data for machine learning tasks such as classification.
 
